@@ -27,11 +27,11 @@ pip install langchain-text-splitters
 ### Environment Variables
 Create a `.env` file with the following:
 
-OPENAI_API_KEY=your_openai_key
-LANGCHAIN_API_KEY=your_langchain_key
-GROQ_API_KEY=your_groq_key
-LANGCHAIN_TRACING_V2=optional
-LANGCHAIN_PROJECT=optional
+OPENAI_API_KEY=your_openai_key  
+LANGCHAIN_API_KEY=your_langchain_key  
+GROQ_API_KEY=your_groq_key  
+LANGCHAIN_TRACING_V2=optional  
+LANGCHAIN_PROJECT=optional  
 
 
 ## Project Structure
